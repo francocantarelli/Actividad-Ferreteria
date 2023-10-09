@@ -1,0 +1,27 @@
+body {
+   text-align: center;
+}
+
+#container-carrito{
+   padding-top: 25px;
+}
+
+#productos_del_carrito img {
+   height: 70px;
+   width: 70px;
+}
+
+td,tr {
+   text-align: center;
+}
+
+i {
+   color: red;
+   font-size: 1.4rem;
+   cursor: pointer;
+}
+
+i:hover{
+   transition: 0.5s;
+   transform: scale(1.3);
+}

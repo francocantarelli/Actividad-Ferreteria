@@ -1,0 +1,164 @@
+{
+  "productos": [
+    {
+      "identificacion": 1,
+      "nombre": "Martillo",
+      "descripcion": "Martillo de carpintero, mango de madera",
+      "cantidad_en_stock": 50,
+      "costo_en_pesos_uruguayos": 300,
+      "imagen": "https://media.istockphoto.com/id/96319218/es/foto/martillo.jpg?s=612x612&w=0&k=20&c=90A_p9IIqRZ8Mbr4tNfZXX6rQVRkQMkW-eO_7Q_uhSY="
+    },
+    {
+      "identificacion": 2,
+      "nombre": "Destornillador Phillips",
+      "descripcion": "Destornillador con punta Phillips, de acero",
+      "cantidad_en_stock": 75,
+      "costo_en_pesos_uruguayos": 150,
+      "imagen": "https://media.istockphoto.com/id/466428630/es/foto/destornillador.jpg?s=612x612&w=0&k=20&c=quNAtTQJct8zsq6qfKoSzZ8wwfcRKME8YOukJ9S8iPw="
+    },
+    {
+      "identificacion": 3,
+      "nombre": "Taladro eléctrico",
+      "descripcion": "Taladro de 500W con velocidad variable",
+      "cantidad_en_stock": 20,
+      "costo_en_pesos_uruguayos": 1500,
+      "imagen": "https://media.istockphoto.com/id/1300993562/es/foto/destornillador-sobre-fondo-blanco-aislado.jpg?s=612x612&w=0&k=20&c=IjvDFIxKk97fhxkY0ejlDotNfe91wqffXCxCJxASYvs="
+    },
+    {
+      "identificacion": 4,
+      "nombre": "Llave ajustable",
+      "descripcion": "Llave ajustable de 8 pulgadas, cromada",
+      "cantidad_en_stock": 30,
+      "costo_en_pesos_uruguayos": 250,
+      "imagen": "https://media.istockphoto.com/id/476375415/es/foto/llave-de-metal-de-llave.jpg?s=612x612&w=0&k=20&c=DZuCXdhM32-_2-l-Dn0oSX-aL7dCl0WuiFgm0N1coH0="
+    },
+    {
+      "identificacion": 5,
+      "nombre": "Sierra circular",
+      "descripcion": "Sierra circular de 1200W, hoja de 7 pulgadas",
+      "cantidad_en_stock": 15,
+      "costo_en_pesos_uruguayos": 2200,
+      "imagen": "https://media.istockphoto.com/id/1040083800/es/foto/carpintero-con-sierra-circular-para-tableros-de-madera-de-corte-con-herramientas-de-mano.jpg?s=612x612&w=0&k=20&c=iYrF8jEMD2ClE1znrjHO3phOTfUFqTTjUa0fTQcqBI0="
+    },
+    {
+      "identificacion": 6,
+      "nombre": "Clavos para madera",
+      "descripcion": "Clavos de 2 pulgadas, caja de 100 unidades",
+      "cantidad_en_stock": 100,
+      "costo_en_pesos_uruguayos": 50,
+      "imagen": "https://media.istockphoto.com/id/183295634/es/foto/u%C3%B1as-sobre-blanco.jpg?s=612x612&w=0&k=20&c=MMZd7rjI7Uhz4lrdafktEIgLgLobL1GX38zkYr_Z0Oc="
+    },
+    {
+      "identificacion": 7,
+      "nombre": "Pintura blanca",
+      "descripcion": "Lata de pintura blanca de 1 litro",
+      "cantidad_en_stock": 40,
+      "costo_en_pesos_uruguayos": 300,
+      "imagen": "https://media.istockphoto.com/id/1366646798/es/foto/inmersi%C3%B3n-del-pincel-en-la-pintura.jpg?s=612x612&w=0&k=20&c=4mMcXmefbC2JTH2Pvzg_lgqBzSXb_O3jVeeM88G-2B8="
+    },
+    {
+      "identificacion": 8,
+      "nombre": "Cinta métrica",
+      "descripcion": "Cinta métrica de 5 metros, con carcasa resistente",
+      "cantidad_en_stock": 60,
+      "costo_en_pesos_uruguayos": 120,
+      "imagen": "https://media.istockphoto.com/id/829331274/es/foto/construcci%C3%B3n-ruleta-render-3d-sobre-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=g0F2q4cEwsn0plkNqfm4FVygEiSeT8uRhAB8_6dfBzo="
+    },
+    {
+      "identificacion": 9,
+      "nombre": "Pala de jardín",
+      "descripcion": "Pala de jardín con mango de madera",
+      "cantidad_en_stock": 25,
+      "costo_en_pesos_uruguayos": 350,
+      "imagen": "https://media.istockphoto.com/id/905832142/es/foto/jard%C3%ADn-pala-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=zhCkSJH3Wd7FPXgzs0ODfkbE9lkWJidaniYuCihHi5Y="
+    },
+    {
+      "identificacion": 10,
+      "nombre": "Llave de tubo",
+      "descripcion": "Llave de tubo de 10 pulgadas, de acero",
+      "cantidad_en_stock": 35,
+      "costo_en_pesos_uruguayos": 280,
+      "imagen": "https://media.istockphoto.com/id/473794440/es/vector/llave-ajustable-para-tuber%C3%ADas-vector.jpg?s=612x612&w=0&k=20&c=_5GFmupPkrhwXWF4FtxLE-AgGos8vfGJJH5qOAgKe5k="
+    },
+    {
+      "identificacion": 11,
+      "nombre": "Cerradura para puerta",
+      "descripcion": "Cerradura de seguridad para puertas",
+      "cantidad_en_stock": 18,
+      "costo_en_pesos_uruguayos": 480,
+      "imagen": "https://media.istockphoto.com/id/1025587638/es/foto/instalaci%C3%B3n-hab%C3%ADa-bloqueada-las-perillas-de-puerta-interior-manos-de-carpintero-cerca.jpg?s=612x612&w=0&k=20&c=hvuqJPvgU9mumnBslGKsv-kIOQ04-6b5NN4XNyWoHKQ="
+    },
+    {
+      "identificacion": 12,
+      "nombre": "Tornillos para metal",
+      "descripcion": "Tornillos de acero inoxidable, paquete de 50 unidades",
+      "cantidad_en_stock": 80,
+      "costo_en_pesos_uruguayos": 75,
+      "imagen": "https://media.istockphoto.com/id/182493458/es/foto/dos-tornillos-y-sus-frutos.jpg?s=612x612&w=0&k=20&c=2ozo6TO2DLByd-LRZKPgqG-ajsZSHtATqpJXcjN_dnQ="
+    },
+    {
+      "identificacion": 13,
+      "nombre": "Lija para madera",
+      "descripcion": "Lija de grano fino para madera, paquete de 10 unidades",
+      "cantidad_en_stock": 120,
+      "costo_en_pesos_uruguayos": 90,
+      "imagen": "https://media.istockphoto.com/id/175487393/es/foto/rollo-de-papel-de-arena.jpg?s=612x612&w=0&k=20&c=fTSnlDZ80y0Zy1RJuR3ncnj_V_s1zH4Dt24XkxGrfto="
+    },
+    {
+      "identificacion": 14,
+      "nombre": "Cepillo de carpintero",
+      "descripcion": "Cepillo de carpintero de 1 pulgada, de acero",
+      "cantidad_en_stock": 55,
+      "costo_en_pesos_uruguayos": 180,
+      "imagen": "https://f.fcdn.app/imgs/020d5b/www.kroser.com.uy/krosuy/05d7/original/catalogo/82012164_1/1920-1200/cepillo-de-carpintero-global-n-4-stanley-cepillo-de-carpintero-global-n-4-stanley.jpg"
+    },
+    {
+      "identificacion": 15,
+      "nombre": "Cemento Portland",
+      "descripcion": "Saco de 25 kg de cemento Portland",
+      "cantidad_en_stock": 30,
+      "costo_en_pesos_uruguayos": 350,
+      "imagen": "https://media.istockphoto.com/id/987409372/es/foto/cemento-en-bolsas-3d-rendering-aislado-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=xIZXM8YEY3Pq0iTc3HKaA-PUeYudZVnfN7mtxyE8k2A="
+    },
+    {
+      "identificacion": 16,
+      "nombre": "Alicates de corte",
+      "descripcion": "Alicates de corte diagonal, acero endurecido",
+      "cantidad_en_stock": 70,
+      "costo_en_pesos_uruguayos": 110,
+      "imagen": "https://media.istockphoto.com/id/1081449578/es/foto/alicates-de-la-herramienta-pinzas-sobre-un-fondo-blanco.jpg?s=612x612&w=0&k=20&c=QFIObabFkK4uWuwkK2oQsrwZhr4v8srW71oKRz9NwrA="
+    },
+    {
+      "identificacion": 17,
+      "nombre": "Cable eléctrico",
+      "descripcion": "Rollo de cable eléctrico de 50 metros",
+      "cantidad_en_stock": 25,
+      "costo_en_pesos_uruguayos": 420,
+      "imagen": "https://media.istockphoto.com/id/1278900704/es/foto/rollo-redondo-de-cable-el%C3%A9ctrico-rojo-de-un-solo-n%C3%BAcleo-aislado-blanco.jpg?s=612x612&w=0&k=20&c=ZbzQSH4rdMn5Q3M6QVXhVChWbJDJSfB0vqetzumvSBo="
+    },
+    {
+      "identificacion": 18,
+      "nombre": "Brocas para metal",
+      "descripcion": "Juego de brocas para metal, 10 piezas",
+      "cantidad_en_stock": 40,
+      "costo_en_pesos_uruguayos": 280,
+      "imagen": "https://i0.wp.com/www.ingmecafenix.com/wp-content/uploads/2018/10/Broca.webp?resize=683%2C384&ssl=1"
+    },
+    {
+      "identificacion": 19,
+      "nombre": "Cerradura para cajón",
+      "descripcion": "Cerradura para cajón con llave",
+      "cantidad_en_stock": 50,
+      "costo_en_pesos_uruguayos": 90,
+      "imagen": "https://http2.mlstatic.com/D_NQ_NP_920228-MLU28531968340_102018-O.webp"
+    },
+    {
+      "identificacion": 20,
+      "nombre": "Tubo de PVC",
+      "descripcion": "Tubo de PVC de 2 metros, diámetro 3 pulgadas",
+      "cantidad_en_stock": 65,
+      "costo_en_pesos_uruguayos": 80,
+      "imagen": "https://media.istockphoto.com/id/171251846/es/foto/tuber%C3%ADas-de-pvc.jpg?s=612x612&w=0&k=20&c=bVgvXyKhdg5JKKD7_Lm15mnIk7JwZIEFDN5ETvnrIF8="
+    }
+  ]
+}

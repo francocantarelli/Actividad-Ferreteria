@@ -1,0 +1,41 @@
+.navbar-brand img {
+  height: 100px !important;
+}
+nav {
+  margin-bottom: 40px;
+}
+.card {
+  margin-bottom: 40px;
+  height: 350px !important;
+  text-align: center;
+}
+
+.card img {
+  height: 130px!important;
+  width: auto;
+  margin-top: 10px;
+}
+
+.boton-carrito i {
+  color: black;
+  font-size: 30px !important;
+  cursor: pointer;
+  transition: 0.3s;
+  background-color: rgb(222, 222, 222);
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.boton-carrito i:hover {
+  zoom: 5px !important;
+  background-color: black;
+  color: white;
+}
+
+.imgContainer {
+  display: flex;
+  justify-content: center;
+}
