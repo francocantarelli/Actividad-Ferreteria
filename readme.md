@@ -13,11 +13,3 @@ La empresa "CONSTRUYE FÁCIL" solicita al equipo de Jóvenes a Programar un soft
 Desafíate:
 - En el carrito, por cada producto crear un botón "ELIMINAR" para quitar dicho producto.
 - Crear un botón "COMPRAR" que nos muestre el total de la compra realizada. (Pueden utilizar un prompt o un alert por ejemplo)
-
-Puede que les sea útil la siguiente documentación:
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
-JSON.stringify() - JavaScript | MDN (mozilla.org)
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/parseInt
-https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/parseFloat
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/change_event
