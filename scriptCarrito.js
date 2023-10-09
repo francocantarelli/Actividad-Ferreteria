@@ -16,20 +16,24 @@ function mostrarProductos() {
   if (carrito.length > 0) {
     for (const item of carrito) {
       const subtotal = item.costo_en_pesos_uruguayos * item.cantidad;
-      appendCarrito += `
+      appendCarrito += 
+      `
       <tr>
+      <div id="top-cart">
         <th>${item.identificacion}</th>
         <td>${item.nombre}</td>
         <td>${item.cantidad}</td>
         <td>${item.descripcion}</td>
         <td>$${subtotal}</td>
         <td><img height="100" width="100" src=${item.imagen} alt=""></td>
-        <td><i onclick="handleDelete(${item.identificacion})" class="fa-solid fa-trash"></i></td>
-      </tr>`;
+        <td><i onclick="handleDelete(${item.identificacion})" class="fa-solid fa-trash" id="move-caracteristicas"></i></td>
+        </div>
+      </tr>
+      `;
       total_a_agregar += subtotal;
     }
   } else {
-    appendCarrito += `<p> Agregue items </p>`;
+    appendCarrito += `<p> Agregue productos a su lista </p>`;
   }
   document.getElementById("productos_del_carrito").innerHTML = appendCarrito;
   document.getElementById("total").innerHTML = total_a_agregar;
@@ -72,5 +76,5 @@ function total() {
 
 
 const handleCheckOut = () => {
-  alert ("Comprado!!!!!!!!!!!!!!!!!")
+  alert ("Compra realizada con éxito!")
 }
